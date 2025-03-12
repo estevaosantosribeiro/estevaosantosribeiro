@@ -2,7 +2,6 @@
 
 - 📚 Estudante de Sistemas de Informação - Uniplac
 - 🎓 Técnico em Informática - IFSC
-- 💻 Aluno da Academia do Programador
 
 ### Estatísticas 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaosantosribeiro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,6 @@
 ## Olá, me chamo Estevão Santos!
 
-- 📚 Estudante de Sistemas de Informação - Uniplac
+- 📚 Sistemas de Informação - Uniplac
 - 🎓 Técnico em Informática - IFSC
 
 ### Estatísticas 
